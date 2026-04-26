@@ -92,7 +92,7 @@ st.markdown("""
 # ─────────────────────────────────────────────
 
 # URL dataset di Hugging Face milik shah0
-HF_DATASET_URL = "https://huggingface.co/datasets/shah0/steam-games/resolve/main/games.csv"
+HF_DATASET_URL = "https://huggingface.co/datasets/shah0/games/resolve/main/games.csv"
 
 LOCAL_CSV = os.path.join(os.path.dirname(os.path.abspath(__file__)), "games.csv")
 
